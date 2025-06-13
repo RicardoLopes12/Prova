@@ -4,7 +4,7 @@ Abstract Factory;  						Fornece uma interface para a criação de conjuntos de 
 A arquitetura de um sistema é uma área importante		Determinar como a interface do sistema se comunicará com as outras camadas do sistema.
 Imagem Verde							Um sistema de bibliotecas com diversos
 No âmbito dos estilos de arquitetura Sommerville (2007)		Consiste em uma arquitetura baseada em serviços
-CREATIONAL PATTERNS:						Somente I e II.
+CREATIONAL PATTERNS:						Somente 1 e 2.
 Consiste em uma arquitetura em					Chamadas e retornos
 Um determinado cliente elaborou					Inteligência Artificial
 ficarão evidenciadas as ________________			camadas
@@ -17,7 +17,7 @@ Diversos processos são desenvolvidos				F – F – F – V
 Uma equipe de desenvolvimento de software			Entregar frequentemente software funcionando, de poucas semanas a poucos meses, com preferência à menor escala de tempo.
 A metodologia FDD tem cinco tipos				Desenvolver um modelo geral, construir uma lista de feature, planejar por feature, projetar por feature e construir por feature.
 O Manifesto Ágil sugere uma abordagem de entrega		Incremental
-Na metodologia FDD as equipes de trabalho são			I – II – III – I 
+Na metodologia FDD as equipes de trabalho são			1 – 2 – 3 – 1 
 Os métodos ágeis possuem um conjunto amplo			Kanban
 O projeto de uma Arquitetura Orientada a Serviço		O barramento de serviço representa o local onde os serviços estão interconectados, como um repositório para consumo.
 No fluxo de processo do Scrum, o que significa "backlog"?	É uma lista com prioridades dos requisitos ou funcionalidades do projeto que fornecem valor comercial ao cliente

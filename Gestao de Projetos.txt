@@ -1,37 +1,37 @@
 Gestao de Projetos
 
 uma parte importante 					Os patrocinadores do projeto
-O Project Management Body of Knowledge (PMBoK)		I, II, III, IV e V
-O gerenciamento do escopo				I, II, III
+O Project Management Body of Knowledge (PMBoK)		1, 2, 3, 4 e 5
+O gerenciamento do escopo				1, 2, 3
 A respeito dos conceitos de projeto			A natureza temporária do projeto
-Júlio é gerente de projetos				I, II, III e IV, apenas.
-Uma empresa de desenvolvimento de software		II, III, IV e VI, apenas
-O gerenciamento de projetos				I apenas
-Projeto é um instrumento fundamental			I, III e IV, apenas
-O sucesso de um projeto					I, IV e VI, apenas.
-O gerente de projetos é					I, II, III, IV e V, apenas.
+Júlio é gerente de projetos				1, 2, 3 e 4
+Uma empresa de desenvolvimento de software		2, 3, 4 e 6
+O gerenciamento de projetos				1
+Projeto é um instrumento fundamental			1, 3 e 4
+O sucesso de um projeto					1, 4 e 6,
+O gerente de projetos é					1, 2, 3, 4 e 5
 
 ------------------------------------------------------------------------------------------------------------------
-Controlar as Comunicações				II e III, apenas
+Controlar as Comunicações				2 e 3, apenas
 (Program Evaluation and Review Technique).		Simples entendimento
-Estimativa bottom‐up:					II e III, apenas.
-Imagem Seta						I IV V
-A necessidade de mobilizar a equipe de cada evento	I, IV, V e VI, apenas.
+Estimativa bottom‐up:					2 e 3, apenas.
+Imagem Seta						1 4 5
+A necessidade de mobilizar a equipe de cada evento	1, 4, 5 e 6, apenas.
 Segundo Carvalho e Rabechini (2015)			Planejar, fazer, checar e agir.
 O gerenciamento do tempo do projeto			Estimar os recursos da atividade é o processo
-O PERT/CPM 						I e II
-Na fase de Definição/Iniciação de um projeto		I, II, IV e VI, apenas
-A opinião especializada					I, II e III, apenas.
+O PERT/CPM 						1 e 2
+Na fase de Definição/Iniciação de um projeto		1, 2, 4 e 6, apenas
+A opinião especializada					1, 2 e 3, apenas.
 
 ------------------------------------------------------------------------------------------------------------------
 
 No contexto do gerenciamento de projetos		Para uma boa gestão do tempo
-O Scrum tem três papéis principais			I e IV, apenas.
-A não entrega do produto por conta de um		II, III, IV e V, apenas.
-É necessário, ao final do projeto			II e III.
+O Scrum tem três papéis principais			1 e 4, apenas.
+A não entrega do produto por conta de um		2, 3, 4 e 6, apenas.
+É necessário, ao final do projeto			2 e 3.
 Na formulação de indicadores para um			Essencial ao projeto – de imputação direta, de verificação objetiva e diferente dos indicadores de cada nível do projeto
-IDP							I, II, III e IV, apenas.
+IDP							1, 2, 3 e 4, apenas.
 No PMBOK						Orçamentação.
-No que diz respeito ao SCRUM				II, IV, V e VI
+No que diz respeito ao SCRUM				2, 4, 5 e 6
 Gerenciamento tradicional e ágil são dois métodos	A metodologia de planejamento e programação
 Já o(a) ______________ vive em uma _________________,	gerenciamento ágil; zona de imprevisibilidade.

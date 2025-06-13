@@ -1,36 +1,36 @@
 DESENVOLVIMENTO
 
-Abstract Factory;  						Fornece uma interface para a criação de conjuntos de objetos relacionados ou dependentes, sem precisar especificar sua classe.
-A arquitetura de um sistema é uma área importante		Determinar como a interface do sistema se comunicará com as outras camadas do sistema.
-Imagem Verde							Um sistema de bibliotecas com diversos
-No âmbito dos estilos de arquitetura Sommerville (2007)		Consiste em uma arquitetura baseada em serviços
-CREATIONAL PATTERNS:						Somente 1 e 2.
-Consiste em uma arquitetura em					Chamadas e retornos
-Um determinado cliente elaborou					Inteligência Artificial
-ficarão evidenciadas as ________________			camadas
-Os elementos GUI utilizam padrões _______________		comportamentais
-Certa empresa de desenvolvimento de software			Arquitetura orientada a objetos e arquitetura em camadas.
+Abstract Factory;  						|Fornece uma interface para a criação de conjuntos de objetos relacionados ou dependentes, sem precisar especificar sua classe.\
+A arquitetura de um sistema é uma área importante		|Determinar como a interface do sistema se comunicará com as outras camadas do sistema.\
+Imagem Verde							|Um sistema de bibliotecas com diversos\
+No âmbito dos estilos de arquitetura Sommerville (2007)		|Consiste em uma arquitetura baseada em serviços\
+CREATIONAL PATTERNS:						|Somente 1 e 2.\
+Consiste em uma arquitetura em					|Chamadas e retornos\
+Um determinado cliente elaborou					|Inteligência Artificial\
+ficarão evidenciadas as ________________			|camadas\
+Os elementos GUI utilizam padrões _______________		|comportamentais\
+Certa empresa de desenvolvimento de software			|Arquitetura orientada a objetos e arquitetura em camadas.\
 
 ------------------------------------------------------------------------------------------------------------------
-É muito mais importante que o cliente esteja plenamente 	Responder a mudanças mais que seguir um plano
-Diversos processos são desenvolvidos				F – F – F – V
-Uma equipe de desenvolvimento de software			Entregar frequentemente software funcionando, de poucas semanas a poucos meses, com preferência à menor escala de tempo.
-A metodologia FDD tem cinco tipos				Desenvolver um modelo geral, construir uma lista de feature, planejar por feature, projetar por feature e construir por feature.
-O Manifesto Ágil sugere uma abordagem de entrega		Incremental
-Na metodologia FDD as equipes de trabalho são			1 – 2 – 3 – 1 
-Os métodos ágeis possuem um conjunto amplo			Kanban
-O projeto de uma Arquitetura Orientada a Serviço		O barramento de serviço representa o local onde os serviços estão interconectados, como um repositório para consumo.
-No fluxo de processo do Scrum, o que significa "backlog"?	É uma lista com prioridades dos requisitos ou funcionalidades do projeto que fornecem valor comercial ao cliente
-Padrões de modelagem de software				Comunicação da equipe, extensibilidade, testabilidade.
+É muito mais importante que o cliente esteja plenamente 	|Responder a mudanças mais que seguir um plano\
+Diversos processos são desenvolvidos				|F – F – F – V\
+Uma equipe de desenvolvimento de software			|Entregar frequentemente software funcionando, de poucas semanas a poucos meses, com preferência à menor escala de tempo.\
+A metodologia FDD tem cinco tipos				|Desenvolver um modelo geral, construir uma lista de feature, planejar por feature, projetar por feature e construir por feature.\
+O Manifesto Ágil sugere uma abordagem de entrega		|Incremental\
+Na metodologia FDD as equipes de trabalho são			|1 – 2 – 3 – 1 \
+Os métodos ágeis possuem um conjunto amplo			|Kanban\
+O projeto de uma Arquitetura Orientada a Serviço		|O barramento de serviço representa o local onde os serviços estão interconectados, como um repositório para consumo.\
+No fluxo de processo do Scrum, o que significa "backlog"?	|É uma lista com prioridades dos requisitos ou funcionalidades do projeto que fornecem valor comercial ao cliente\
+Padrões de modelagem de software				|Comunicação da equipe, extensibilidade, testabilidade.\
 
 ------------------------------------------------------------------------------------------------------------------
-Um sistema de controle de vendas foi entregue			Manutenção corretiva.
-As atividades de verificação e validação			analisar se o software atende aos seus requisitos e se ele atende às expectativas do cliente.
-O Design Sprint é um processo realizado				criar telas.
-O processo de manutenção de software, em alguns casos,		A maioria dos problemas com a manutenção do software é causada por deficiências na maneira como ele foi planejado e desenvolvido.
-O que significa manutenibilidade?				Manutenibilidade pode ser definida como a facilidade com que o software pode ser entendido, corrigido, adaptado e/ou melhorado
-O comportamento interno do componente de software		Teste de caixa-branca.
-As afirmações a seguir são sobre como as tarefas		Fazem parte de um modelo incremental e são divididas em sprints. Nessas sprints são desenvolvidas funcionalidades do produto.
-Os testes, durante um projeto de desenvolvimento		servir de guia para os testadores, mostrando a maneira como os testes devem ser realizados
-O desenvolvimento de software pode ser conduzido		1-B / 1-C / 1-D / 1-F / 1-G / 2-A / 2-E / 2-H
-No desenvolvimento de projetos com metodologias híbridas	Adaptável a mudanças, colaboração do time, comprometimento com prazos, pequenas entregas de funcionalidades
+Um sistema de controle de vendas foi entregue			|Manutenção corretiva.\
+As atividades de verificação e validação			|analisar se o software atende aos seus requisitos e se ele atende às expectativas do cliente.\
+O Design Sprint é um processo realizado				|criar telas.\
+O processo de manutenção de software, em alguns casos,		|A maioria dos problemas com a manutenção do software é causada por deficiências na maneira como ele foi planejado e desenvolvido.\
+O que significa manutenibilidade?				|Manutenibilidade pode ser definida como a facilidade com que o software pode ser entendido, corrigido, adaptado e/ou melhorado\
+O comportamento interno do componente de software		|Teste de caixa-branca.\
+As afirmações a seguir são sobre como as tarefas		|Fazem parte de um modelo incremental e são divididas em sprints. Nessas sprints são desenvolvidas funcionalidades do produto.\
+Os testes, durante um projeto de desenvolvimento		|servir de guia para os testadores, mostrando a maneira como os testes devem ser realizados\
+O desenvolvimento de software pode ser conduzido		|1-B / 1-C / 1-D / 1-F / 1-G / 2-A / 2-E / 2-H\
+No desenvolvimento de projetos com metodologias híbridas	|Adaptável a mudanças, colaboração do time, comprometimento com prazos, pequenas entregas de funcionalidades\
